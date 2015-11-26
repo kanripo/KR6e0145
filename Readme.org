@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:52.037120
-#+TITLE: 法界宗蓮花章
-#+PROPERTY: CBETA_ID X58n1027
-#+PROPERTY: ID KR6e0145
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1027
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 法界宗蓮花章 / CBETA
+#+DATE: 2015-11-26 14:21:41.985652
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0145_X_000-0700a>
+* 目次
+* 卷
+** [[file:KR6e0145_001.txt][法界宗蓮花章 1]]
