@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:52.051678
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:52
 #+TITLE: 法界宗蓮花章
 #+PROPERTY: CBETA_ID X58n1027
 #+PROPERTY: ID KR6e0145
